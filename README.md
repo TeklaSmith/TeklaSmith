@@ -5,7 +5,7 @@ href="https://www.linkedin.com/in/tekla-b2826214/">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Food and Beverage Revenue Analysis for Arts Nonprofit](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/TeklaSmith/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
 
 <h2>📚Certifications:</h2>
 
